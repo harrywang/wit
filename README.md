@@ -1,6 +1,6 @@
 # About
 
-How to issue a ERC20 token in 10 minutes.
+How to issue an ERC20 token in 10 minutes.
 
 The followings are used in this tutorial:
 
