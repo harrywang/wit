@@ -2,6 +2,8 @@
 
 How to issue an ERC20 token in 10 minutes.
 
+I will demonstrate how to issue 1 million Wild Idiot Token (WIT) on Polygon and Ethereum.
+
 The followings are used in this tutorial:
 
 - Solidity
