@@ -194,7 +194,18 @@ Deploy on Ethereum mainnet and use some real ether:
 ```
 npx hardhat run scripts/deploy.js --network ethereum
 
+Deploying contract with the account: 0xf6a4169C3f2a435afd78c48E6a3f99F4a174A5Df
+The initial supply is: 1000000.0
+Token deployed to: 0x1E8Aa19bA80007374181e48106DDD9c00CeC09cb
+
 ```
 
-View deployed contact at https://etherscan.io/address/the_deployed_contract_address
+View deployed contact at https://etherscan.io/address/0x1E8Aa19bA80007374181e48106DDD9c00CeC09cb
 
+The real transaction costed me: $99.6 and the gas estimation right before I deployed the contract was $103.02 - pretty good. 
+
+<img width="693" src="https://user-images.githubusercontent.com/595772/166152545-09e346f6-352b-4e8d-9a26-60c2d744c59d.png">
+
+Now, I am a self-made millionaire! :)
+
+<img width="568" src="https://user-images.githubusercontent.com/595772/166152623-e14c1925-6cce-489a-b634-95c1efd1f15e.png">
